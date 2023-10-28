@@ -2,7 +2,6 @@
 
 ### Connect with me:
  [<img src="https://img.shields.io/badge/instagram-%23FFFFFF.svg?&logo=instagram"/>](https://www.instagram.com/dileep_sharma_a/)
- [<img src ="https://img.shields.io/badge/github-%23000000.svg?&logo=github"/>](https://github.com/Dileep2896/Dileep2896)
  [<img src="https://img.shields.io/badge/kaggle-%23FFFFFF.svg?&logo=kaggle"/>](https://www.kaggle.com/dileep2896)
  [<img src="https://img.shields.io/badge/linkedin-%23000000.svg?&logo=linkedin"/>](https://www.linkedin.com/in/dileep-kumar-s-44ab66113/)
  [<img src="https://img.shields.io/badge/twitter-%23FFFFFF.svg?&logo=twitter"/>](https://twitter.com/dileep_kumar_a)
