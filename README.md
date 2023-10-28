@@ -14,12 +14,12 @@
  ```python
  me = {
      # Languages I am interested in
-     languages: [Python, Java, C, C++, Dart, Swift, Javascript, Kotlin, R, Solidity],
+     languages: [Python, Java, C, C++, Dart, Swift, Javascript, Kotlin, Solidity],
      # Libraries I often use or have worked with
      libraries_and_frameworks: ["tensorflow", "numpy", "openCV", "openAI gym", "scikit-learn", "pytorch",
                                  "keras", "reactJs", "material-ui", "NLTK", 'flutter_pub_dev'],
      # Software and applications I prefer                       
-     software_and_applications: ['flutter', 'android-studio',  'anaconda', 'adobe', 'vs-code']
+     software_and_applications: ['flutter', 'android-studio',  'anaconda', 'aws']
  }
  
  if year == 2022:
@@ -32,10 +32,9 @@
   - Web3
   - Android/IOS Application Development
   - Web Development
-  - Content Creation
 
 **I am open for**:
-  - any collobration work (related to my interest fields).
-  - artificial intelligence projects.
-  - web3 collaboration.
-  - internships, research.
+  - 2024 summer internship | Cop-ops
+  - Artificial Intelligence projects.
+  - Web3 collaboration.
+  - Research.
