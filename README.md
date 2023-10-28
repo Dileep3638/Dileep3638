@@ -39,7 +39,3 @@
   - artificial intelligence projects.
   - web3 collaboration.
   - internships, research.
-  
-## Github Streak
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dileep2896&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dileep2896&theme=radical)](https://git.io/streak-stats)
