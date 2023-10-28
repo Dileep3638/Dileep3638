@@ -22,8 +22,8 @@
      software_and_applications: ['flutter', 'android-studio',  'anaconda', 'aws']
  }
  
- if year == 2022:
-    goals = ["Become a web3 developer", "Improve-Skills", "Contribute-In-Open-Source", "Learn-Something-New"]
+ if year == 2023:
+    goals = ["Improve-Skills", "Contribute-In-Open-Source", "Learn-Something-New"]
     extras = ["happy-coding", "meet-new-people", "have-fun", "tt-fav_game"]
  ```
  
